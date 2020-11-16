@@ -1,0 +1,68 @@
+
+.geral{
+}
+.div01{
+    float: left;
+   background-color:#CCCCCC;  
+   width:33%;  
+   height:500px; 
+   margin-left: 4px;
+}
+
+.div02{
+    float: left;
+    background-color:#CCCCCC;  
+    width:33%;    
+    height:500px;
+    margin-left: 4px;
+}
+
+.div03{
+    float: left;
+    background-color:#CCCCCC;  
+    width:33%;   
+    height:500px;
+    margin-left: 4px;
+}
+
+.img1{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    background-image:url(../../assets/PHONE_MB_01.PNG);
+
+
+}
+.img1:hover{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    background-image:url(../../assets/PHONE_MB_02.jpg);
+}
+
+.img2{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    background-image:url(../../assets/CANETA_ZODIACS_1.jpg);
+}
+.img2:hover{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    background-image:url(../../assets/CANETA_ZODIACS_2.jpg);
+}
+
+.img3{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    background-image:url(../../assets/MOCHILA_01.jpg);
+}
+.img3:hover{
+    width: 100%;
+    height: 100%;
+    transition: 1s;
+    background-image:url(../../assets/MOCHILA_02.PNG);
+}
+
